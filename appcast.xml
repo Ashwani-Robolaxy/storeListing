@@ -10,7 +10,7 @@
       <pubDate>Mon, 15 Sep 2025 12:00:00 +0530</pubDate>
       <!-- Use the external testing opt-in or a details link accessible to testers -->
       <enclosure
-        url="https://play.google.com/apps/testing/com.fitlifebud.fitness"
+        url="https://play.google.com/store/apps/details?id=com.fitlifebud.fitness&hl=en-US&ah=pzV39Hyb96ufut8YExAErowI_V4"
         sparkle:version="1.0.18"
         sparkle:os="android" />
     </item>
