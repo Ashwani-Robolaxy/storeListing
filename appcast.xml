@@ -17,12 +17,12 @@
 
     <!-- Optionally, iOS entry -->
     <item>
-      <title>Version 1.0.22</title>
+      <title>Version 1.0.21</title>
       <description>Bug fixes and improvements.</description>
       <pubDate>Thu, 19 Dec 2025 10:00:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/app/com.fitlifebud.fitness"
-        sparkle:version="1.0.22"
+        sparkle:version="1.0.21"
         sparkle:os="ios" />
     </item>
   </channel>
