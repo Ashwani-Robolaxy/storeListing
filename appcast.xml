@@ -22,7 +22,7 @@
       <pubDate>Mon, 15 Sep 2025 12:00:00 +0530</pubDate>
       <enclosure
         url="https://apps.apple.com/app/com.fitlifebud.fitness"
-        sparkle:version="1.0.18"
+        sparkle:version="1.0.22"
         sparkle:os="ios" />
     </item>
   </channel>
